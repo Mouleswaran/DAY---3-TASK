@@ -1,0 +1,48 @@
+let myResume={
+    "basics": {
+      "name": "Mouleswaran B",
+      "email": "moulesmoule31296@gmail.com",
+      "phone": 8870455996,
+      "degree": "B.E",
+      "location": {
+        "address": "4th street moogambigai nagar",
+        "postalCode": 641607,
+        "city": "Tirupur",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "website": "https://www.linkedin.com/in/mouleswaranb/",
+          "github":"https://github.com/Mouleswaran"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Mehala Machines India Limited",
+        "position": "Business Development officier",
+        "startDate": "2022-01-12",
+        "endDate": "2022-09-31",
+        
+      },
+    ],
+    "education": [
+      {
+        "institution": "SNS College of engineering",
+        "department": "Mechanical",
+        "studyType": "Fulltime",
+        "batch start year": 2014,
+        "batch end year": 2018,
+        "cgpa": 6.65,
+      }
+    ],
+    
+    "languages": [
+      {
+        "language": "Tamil,English",
+      }
+    ],
+    
+  }
+  console.log(myResume)
